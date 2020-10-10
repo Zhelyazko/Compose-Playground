@@ -1,0 +1,36 @@
+/build
+
+*.iml
+.gradle
+*local.properties
+
+.idea/
+.idea/tasks.xml
+.idea/dictionaries
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+## Plugin-specific files:
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+**/.DS_Store
+# JIRA plugin
+atlassian-ide-plugin.xml
+.DS_Store
+**/build
+/captures
+/alert/elastalert
+/alert/generated*
+/infer-out
